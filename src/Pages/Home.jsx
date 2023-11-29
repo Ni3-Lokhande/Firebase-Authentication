@@ -80,7 +80,7 @@ const Home = () => {
 
   return (
     <div>
-      <div className="slide "> <h1></h1>
+      <div className="slide "> 
 
         <ToastContainer position='top-center' autoClose={3000}
           hideProgressBar={true}
@@ -96,7 +96,7 @@ const Home = () => {
         ) : (
           <button onClick={handleLogout}>Logout</button>
         )}
-       <h1></h1>
+       
 
       </div>
 
