@@ -96,7 +96,7 @@ const Home = () => {
         ) : (
           <button onClick={handleLogout}>Logout</button>
         )}
-
+       <h1></h1>
 
       </div>
 
